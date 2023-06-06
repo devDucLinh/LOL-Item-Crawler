@@ -1,0 +1,767 @@
+﻿Tên vật phẩm,Bản đồ,Hình ảnh,Tốc độ di chuyển,Máu,Tỉ lệ chí mạng,Sát thương phép,Năng lượng,Giáp,Kháng phép,Sát thương vật lý,Tốc độ đánh,Hút máu,Hồi máu,Tỉ lệ tốc độ di chuyển,Giá nâng cấp,Giá mua,Giá bán,Giá trị chỉ số,Hiệu quả
+Giày,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1001.png,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,210,217.39130434782606,0.7246376811594202
+Giày,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1001.png,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,210,217.39130434782606,0.7246376811594202
+Giày,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1001.png,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,210,217.39130434782606,0.7246376811594202
+Bùa Tiên,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,250,250,175,0.0,0.0
+Bùa Tiên,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,250,250,175,0.0,0.0
+Bùa Tiên,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,250,250,175,0.0,0.0
+Ngọc Lục Bảo,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,120,0.0,0.0
+Ngọc Lục Bảo,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,120,0.0,0.0
+Ngọc Lục Bảo,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,120,0.0,0.0
+Đai Khổng Lồ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1011.png,0.0,350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,900,630,560.0,0.6222222222222222
+Đai Khổng Lồ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1011.png,0.0,350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,900,630,560.0,0.6222222222222222
+Đai Khổng Lồ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1011.png,0.0,350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,900,630,560.0,0.6222222222222222
+Áo Choàng Tím,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1018.png,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,600,600,420,600.0,1.0
+Áo Choàng Tím,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1018.png,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,600,600,420,600.0,1.0
+Áo Choàng Tím,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1018.png,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,600,600,420,600.0,1.0
+Gậy Bùng Nổ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1026.png,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,850,850,595,400.0,0.47058823529411764
+Gậy Bùng Nổ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1026.png,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,850,850,595,400.0,0.47058823529411764
+Gậy Bùng Nổ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1026.png,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,850,850,595,400.0,0.47058823529411764
+Lam Ngọc,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1027.png,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350,350,245,350.0,1.0
+Lam Ngọc,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1027.png,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350,350,245,350.0,1.0
+Lam Ngọc,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1027.png,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350,350,245,350.0,1.0
+Hồng Ngọc,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1028.png,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,280,240.0,0.6
+Hồng Ngọc,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1028.png,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,280,240.0,0.6
+Hồng Ngọc,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1028.png,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,280,240.0,0.6
+Giáp Lụa,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1029.png,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,210,300.0,1.0
+Giáp Lụa,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1029.png,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,210,300.0,1.0
+Giáp Lụa,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1029.png,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,210,300.0,1.0
+Giáp Lưới,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1031.png,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,500,800,560,800.0,1.0
+Giáp Lưới,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1031.png,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,500,800,560,800.0,1.0
+Giáp Lưới,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1031.png,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,500,800,560,800.0,1.0
+Áo Vải,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1033.png,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,450,450,315,450.0,1.0
+Áo Vải,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1033.png,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,450,450,315,450.0,1.0
+Áo Vải,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1033.png,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,450,450,315,450.0,1.0
+Dao Găm Nham Thạch,,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1035.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350,350,140,0.0,0.0
+Kiếm Dài,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1036.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,350,350,245,200.0,0.5714285714285714
+Kiếm Dài,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1036.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,350,350,245,200.0,0.5714285714285714
+Kiếm Dài,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1036.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,350,350,245,200.0,0.5714285714285714
+Cuốc Chim,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1037.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,875,875,613,500.0,0.5714285714285714
+Cuốc Chim,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1037.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,875,875,613,500.0,0.5714285714285714
+Cuốc Chim,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1037.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,875,875,613,500.0,0.5714285714285714
+Kiếm B.F.,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1038.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1300,1300,910,800.0,0.6153846153846154
+Kiếm B.F.,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1038.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1300,1300,910,800.0,0.6153846153846154
+Kiếm B.F.,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1038.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1300,1300,910,800.0,0.6153846153846154
+Dao Găm Băng Giá,,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1039.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350,350,140,0.0,0.0
+Dao Găm Hắc Thạch,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1040.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350,350,140,0.0,0.0
+Dao Găm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1042.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.0,0.0,0.0,300,300,210,300.0,1.0
+Dao Găm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1042.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.0,0.0,0.0,300,300,210,300.0,1.0
+Dao Găm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1042.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.0,0.0,0.0,300,300,210,300.0,1.0
+Cung Gỗ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1043.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,0.0,0.0,400,700,490,375.0,0.5357142857142857
+Cung Gỗ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1043.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,0.0,0.0,400,700,490,375.0,0.5357142857142857
+Cung Gỗ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1043.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,0.0,0.0,400,700,490,375.0,0.5357142857142857
+Sách Cũ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1052.png,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,435,435,305,200.0,0.45977011494252873
+Sách Cũ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1052.png,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,435,435,305,200.0,0.45977011494252873
+Sách Cũ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1052.png,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,435,435,305,200.0,0.45977011494252873
+Huyết Trượng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1053.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.07,0.0,0.0,550,900,630,1200.0,1.3333333333333333
+Huyết Trượng,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1053.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.07,0.0,0.0,550,900,630,1200.0,1.3333333333333333
+Huyết Trượng,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1053.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.07,0.0,0.0,550,900,630,1200.0,1.3333333333333333
+Khiên Doran,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1054.png,0.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.0,450,450,180,318.0,0.7066666666666667
+Khiên Doran,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1054.png,0.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.0,450,450,180,318.0,0.7066666666666667
+Khiên Doran,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1054.png,0.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.0,450,450,180,318.0,0.7066666666666667
+Kiếm Doran,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1055.png,0.0,80.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,450,450,180,288.0,0.64
+Kiếm Doran,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1055.png,0.0,80.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,450,450,180,288.0,0.64
+Kiếm Doran,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1055.png,0.0,80.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,450,450,180,288.0,0.64
+Nhẫn Doran,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1056.png,0.0,70.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,160,262.0,0.655
+Nhẫn Doran,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1056.png,0.0,70.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,160,262.0,0.655
+Nhẫn Doran,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1056.png,0.0,70.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,160,262.0,0.655
+Áo Choàng Bạc,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1057.png,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,450,900,630,900.0,1.0
+Áo Choàng Bạc,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1057.png,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,450,900,630,900.0,1.0
+Áo Choàng Bạc,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1057.png,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,450,900,630,900.0,1.0
+Gậy Quá Khổ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1058.png,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1250,1250,875,600.0,0.48
+Gậy Quá Khổ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1058.png,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1250,1250,875,600.0,0.48
+Gậy Quá Khổ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1058.png,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1250,1250,875,600.0,0.48
+Phong Ấn Hắc Ám,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1082.png,0.0,40.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350,350,140,214.0,0.6114285714285714
+Lưỡi Hái,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1083.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,450,450,180,140.0,0.3111111111111111
+Linh Hồn Hỏa Khuyển,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1101.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,450,450,180,0.0,0.0
+Linh Hồn Hỏa Khuyển,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1101.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,450,450,180,0.0,0.0
+Linh Hồn Phong Hồ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1102.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,450,450,180,0.0,0.0
+Linh Hồn Phong Hồ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1102.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,450,450,180,0.0,0.0
+Linh Hồn Mộc Long,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1103.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,450,450,180,0.0,0.0
+Linh Hồn Mộc Long,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1103.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,450,450,180,0.0,0.0
+Mắt Sứ Giả,,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1104.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Đạn Xuyên Phá,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1500.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Đạn Xuyên Phá,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1500.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Đạn Xuyên Phá,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1500.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Kiên Cố,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1501.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Kiên Cố,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1501.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Kiên Cố,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1501.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Giáp Cường Hóa,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1502.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Giáp Cường Hóa,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1502.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Giáp Cường Hóa,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1502.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mắt Giám Sát,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1503.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mắt Giám Sát,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1503.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mắt Giám Sát,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1503.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Tiên Phong,,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1504.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Cột Thu Lôi,,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1505.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Giáp Cường Hóa,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1506.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Giáp Cường Hóa,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1506.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Giáp Cường Hóa,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1506.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Rệu Rã,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1507.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Rệu Rã,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1507.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Rệu Rã,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1507.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Tất Kháng Trụ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1508.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Tất Kháng Trụ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1508.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Tất Kháng Trụ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1508.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Nhiệt Huyết Lính Cận Chiến,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1509.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Nhiệt Huyết Lính Cận Chiến,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1509.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Nhiệt Huyết Lính Cận Chiến,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1509.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Nhiệt Huyết Lính Đánh Xa,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1510.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Nhiệt Huyết Lính Đánh Xa,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1510.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Nhiệt Huyết Lính Đánh Xa,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1510.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Giáp Lính Siêu Cấp,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1511.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Giáp Lính Siêu Cấp,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1511.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Giáp Lính Siêu Cấp,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1511.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Hào Quang Lính Siêu Cấp,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1512.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Hào Quang Lính Siêu Cấp,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1512.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Hào Quang Lính Siêu Cấp,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1512.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Khiên Trụ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1515.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Khiên Trụ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1515.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Khiên Trụ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1515.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1516.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1516.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1516.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1517.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1517.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1517.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1518.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1518.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1518.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1519.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1519.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Phần Thưởng Công Trình,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1519.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Quá Tải,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1520.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Quá Tải,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1520.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Quá Tải,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1520.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Kiên Cố,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1521.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Kiên Cố,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1521.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Kiên Cố,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1521.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Trụ Cường Hóa,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1522.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Trụ Cường Hóa,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1522.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Trụ Cường Hóa,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1522.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Bình Máu,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50,50,20,0.0,0.0
+Bình Máu,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50,50,20,0.0,0.0
+Bình Máu,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50,50,20,0.0,0.0
+Bánh Quy,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50,50,5,0.0,0.0
+Bánh Quy,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50,50,5,0.0,0.0
+Bánh Quy,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50,50,5,0.0,0.0
+Mảnh Vỡ Kircheis,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2015.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,350,700,490,300.0,0.42857142857142855
+Mảnh Vỡ Kircheis,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2015.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,350,700,490,300.0,0.42857142857142855
+Mảnh Vỡ Kircheis,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2015.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,350,700,490,300.0,0.42857142857142855
+Ấn Thép,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2019.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,225,1100,770,600.0,0.5454545454545454
+Ấn Thép,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2019.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,225,1100,770,600.0,0.5454545454545454
+Ấn Thép,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2019.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,225,1100,770,600.0,0.5454545454545454
+Thuốc Tái Sử Dụng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2031.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,150,150,60,0.0,0.0
+Thuốc Tái Sử Dụng,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2031.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,150,150,60,0.0,0.0
+Thuốc Tái Sử Dụng,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2031.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,150,150,60,0.0,0.0
+Bình Thuốc Biến Dị,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2033.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350,500,200,0.0,0.0
+Bình Thuốc Biến Dị,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2033.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350,500,200,0.0,0.0
+Tù Và Vệ Quân,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2051.png,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,950,950,665,1190.0,1.2526315789473683
+Bánh Quy Poro,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2052.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Bánh Quy Poro,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2052.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Bánh Quy Poro,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2052.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mắt Kiểm Soát,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2055.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75,75,30,0.0,0.0
+Vương Miện Shurelya,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2065.png,0.0,200.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,670.0,0.29130434782608694
+Vương Miện Shurelya,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2065.png,0.0,200.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,670.0,0.29130434782608694
+Vương Miện Shurelya,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2065.png,0.0,200.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,670.0,0.29130434782608694
+Dược Phẩm Cứng Cáp,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2138.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,500,200,0.0,0.0
+Dược Phẩm Cứng Cáp,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2138.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,500,200,0.0,0.0
+Dược Phẩm Cứng Cáp,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2138.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,500,200,0.0,0.0
+Dược Phẩm Thuật Pháp,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2139.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,500,200,0.0,0.0
+Dược Phẩm Thuật Pháp,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2139.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,500,200,0.0,0.0
+Dược Phẩm Thuật Pháp,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2139.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,500,200,0.0,0.0
+Dược Phẩm Phẫn Nộ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2140.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,500,200,0.0,0.0
+Dược Phẩm Phẫn Nộ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2140.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,500,200,0.0,0.0
+Dược Phẩm Phẫn Nộ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2140.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,500,200,0.0,0.0
+Máy Dọn Lính,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2403.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Máy Dọn Lính,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2403.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Máy Dọn Lính,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2403.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Đồng Hồ Ngưng Đọng Khởi Đầu,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2419.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Đồng Hồ Ngưng Đọng Khởi Đầu,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2419.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Đồng Hồ Ngưng Đọng Khởi Đầu,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2419.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Đồng Hồ Ngưng Đọng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2420.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Đồng Hồ Ngưng Đọng,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2420.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Đồng Hồ Ngưng Đọng,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2420.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Đồng Hồ Vụn Vỡ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2421.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Đồng Hồ Vụn Vỡ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2421.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Đồng Hồ Vụn Vỡ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2421.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Giày Xịn,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2422.png,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,90,217.39130434782606,0.7246376811594202
+Giày Xịn,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2422.png,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,90,217.39130434782606,0.7246376811594202
+Giày Xịn,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2422.png,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,300,90,217.39130434782606,0.7246376811594202
+Đồng Hồ Ngưng Đọng Hoàn Hảo,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2423.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Đồng Hồ Ngưng Đọng Hoàn Hảo,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2423.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Đồng Hồ Ngưng Đọng Hoàn Hảo,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2423.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Đồng Hồ Vụn Vỡ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2424.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Đồng Hồ Vụn Vỡ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2424.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Đồng Hồ Vụn Vỡ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2424.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,750,750,300,0.0,0.0
+Giáp Vai Nguyệt Thần,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3001.png,0.0,200.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,800,2300,1610,1460.0,0.6347826086956522
+Giáp Vai Nguyệt Thần,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3001.png,0.0,200.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,800,2300,1610,1460.0,0.6347826086956522
+Giáp Vai Nguyệt Thần,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3001.png,0.0,200.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,800,2300,1610,1460.0,0.6347826086956522
+Quyền Trượng Thiên Thần,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3003.png,0.0,200.0,0.0,70.0,500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,3000,2100,1720.0,0.5733333333333334
+Quyền Trượng Thiên Thần,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3003.png,0.0,200.0,0.0,70.0,500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,3000,2100,1720.0,0.5733333333333334
+Quyền Trượng Thiên Thần,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3003.png,0.0,200.0,0.0,70.0,500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,3000,2100,1720.0,0.5733333333333334
+Kiếm Manamune,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3004.png,0.0,0.0,0.0,0.0,500.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,1050,2900,2030,1400.0,0.4827586206896552
+Kiếm Manamune,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3004.png,0.0,0.0,0.0,0.0,500.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,1050,2900,2030,1400.0,0.4827586206896552
+Kiếm Manamune,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3004.png,0.0,0.0,0.0,0.0,500.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,1050,2900,2030,1400.0,0.4827586206896552
+Giày Cuồng Nộ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3006.png,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.0,500,1100,770,1266.304347826087,1.1511857707509883
+Giày Cuồng Nộ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3006.png,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.0,500,1100,770,1266.304347826087,1.1511857707509883
+Giày Cuồng Nộ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3006.png,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.0,500,1100,770,1266.304347826087,1.1511857707509883
+Giày Bạc,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3009.png,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,600,900,630,521.7391304347826,0.5797101449275363
+Giày Bạc,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3009.png,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,600,900,630,521.7391304347826,0.5797101449275363
+Giày Bạc,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3009.png,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,600,900,630,521.7391304347826,0.5797101449275363
+Bình Thải Hóa Dược,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3011.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,2100,1470,350.0,0.16666666666666666
+Bình Thải Hóa Dược,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3011.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,2100,1470,350.0,0.16666666666666666
+Bình Thải Hóa Dược,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3011.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,2100,1470,350.0,0.16666666666666666
+Chén Thánh,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3012.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,950,665,320.0,0.3368421052631579
+Chén Thánh,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3012.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,950,665,320.0,0.3368421052631579
+Chén Thánh,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3012.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,300,950,665,320.0,0.3368421052631579
+Giày Pháp Sư,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3020.png,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,800,1100,770,391.30434782608694,0.3557312252964427
+Giày Pháp Sư,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3020.png,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,800,1100,770,391.30434782608694,0.3557312252964427
+Giày Pháp Sư,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3020.png,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,800,1100,770,391.30434782608694,0.3557312252964427
+Dây Chuyền Sinh Mệnh,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3023.png,0.0,150.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,350,1050,735,740.0,0.7047619047619048
+Dây Chuyền Sinh Mệnh,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3023.png,0.0,150.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,350,1050,735,740.0,0.7047619047619048
+Dây Chuyền Sinh Mệnh,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3023.png,0.0,150.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,350,1050,735,740.0,0.7047619047619048
+Lá Chắn Mãnh Sư,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3024.png,0.0,0.0,0.0,0.0,250.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,250,900,630,750.0,0.8333333333333334
+Lá Chắn Mãnh Sư,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3024.png,0.0,0.0,0.0,0.0,250.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,250,900,630,750.0,0.8333333333333334
+Lá Chắn Mãnh Sư,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3024.png,0.0,0.0,0.0,0.0,250.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,250,900,630,750.0,0.8333333333333334
+Giáp Thiên Thần,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3026.png,0.0,0.0,0.0,0.0,0.0,40.0,0.0,45.0,0.0,0.0,0.0,0.0,150,3000,1200,1700.0,0.5666666666666667
+Vô Cực Kiếm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3031.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,625,3400,2380,2200.0,0.6470588235294118
+Vô Cực Kiếm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3031.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,625,3400,2380,2200.0,0.6470588235294118
+Vô Cực Kiếm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3031.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,625,3400,2380,2200.0,0.6470588235294118
+Lời Nhắc Tử Vong,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3033.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,150,3000,2100,1600.0,0.5333333333333333
+Lời Nhắc Tử Vong,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3033.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,150,3000,2100,1600.0,0.5333333333333333
+Lời Nhắc Tử Vong,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3033.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,150,3000,2100,1600.0,0.5333333333333333
+Cung Xanh,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3035.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,750,1450,1015,400.0,0.27586206896551724
+Cung Xanh,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3035.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,750,1450,1015,400.0,0.27586206896551724
+Cung Xanh,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3035.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,750,1450,1015,400.0,0.27586206896551724
+Nỏ Thần Dominik,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3036.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,950,3000,2100,1500.0,0.5
+Nỏ Thần Dominik,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3036.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,950,3000,2100,1500.0,0.5
+Nỏ Thần Dominik,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3036.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,950,3000,2100,1500.0,0.5
+Quyền Trượng Đại Thiên Sứ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3040.png,0.0,200.0,0.0,70.0,860.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3000,3000,2100,2224.0,0.7413333333333333
+Quyền Trượng Đại Thiên Sứ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3040.png,0.0,200.0,0.0,70.0,860.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3000,3000,2100,2224.0,0.7413333333333333
+Quyền Trượng Đại Thiên Sứ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3040.png,0.0,200.0,0.0,70.0,860.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3000,3000,2100,2224.0,0.7413333333333333
+Sách Chiêu Hồn Mejai,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3041.png,0.0,100.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1250,1600,1120,360.0,0.225
+Thần Kiếm Muramana,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3042.png,0.0,0.0,0.0,0.0,860.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,3000,3000,2100,1904.0,0.6346666666666667
+Thần Kiếm Muramana,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3042.png,0.0,0.0,0.0,0.0,860.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,3000,3000,2100,1904.0,0.6346666666666667
+Thần Kiếm Muramana,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3042.png,0.0,0.0,0.0,0.0,860.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,3000,3000,2100,1904.0,0.6346666666666667
+Búa Gỗ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3044.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,350,1100,770,620.0,0.5636363636363636
+Búa Gỗ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3044.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,350,1100,770,620.0,0.5636363636363636
+Búa Gỗ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3044.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,350,1100,770,620.0,0.5636363636363636
+Ma Vũ Song Kiếm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3046.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,20.0,0.3,0.0,0.0,0.07,600,2800,1960,3490.0,1.2464285714285714
+Ma Vũ Song Kiếm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3046.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,20.0,0.3,0.0,0.0,0.07,600,2800,1960,3490.0,1.2464285714285714
+Ma Vũ Song Kiếm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3046.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,20.0,0.3,0.0,0.0,0.07,600,2800,1960,3490.0,1.2464285714285714
+Giày Thép Gai,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3047.png,45.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,500,1100,770,791.304347826087,0.7193675889328064
+Giày Thép Gai,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3047.png,45.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,500,1100,770,791.304347826087,0.7193675889328064
+Giày Thép Gai,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3047.png,45.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,500,1100,770,791.304347826087,0.7193675889328064
+Tụ Bão Zeke,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3050.png,0.0,200.0,0.0,0.0,250.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,250,2200,1540,1570.0,0.7136363636363636
+Tụ Bão Zeke,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3050.png,0.0,200.0,0.0,0.0,250.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,250,2200,1540,1570.0,0.7136363636363636
+Tụ Bão Zeke,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3050.png,0.0,200.0,0.0,0.0,250.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,250,2200,1540,1570.0,0.7136363636363636
+Rìu Nhanh Nhẹn,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3051.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.15,0.0,0.0,0.0,100,1100,770,775.0,0.7045454545454546
+Rìu Nhanh Nhẹn,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3051.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.15,0.0,0.0,0.0,100,1100,770,775.0,0.7045454545454546
+Rìu Nhanh Nhẹn,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3051.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.15,0.0,0.0,0.0,100,1100,770,775.0,0.7045454545454546
+Móng Vuốt Sterak,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3053.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,725,3100,2170,640.0,0.2064516129032258
+Móng Vuốt Sterak,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3053.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,725,3100,2170,640.0,0.2064516129032258
+Móng Vuốt Sterak,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3053.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,725,3100,2170,640.0,0.2064516129032258
+Thủy Kiếm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3057.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,700,490,0.0,0.0
+Thủy Kiếm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3057.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,700,490,0.0,0.0
+Thủy Kiếm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3057.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,700,490,0.0,0.0
+Giáp Tâm Linh,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3065.png,0.0,450.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,850,2900,2030,1620.0,0.5586206896551724
+Giáp Tâm Linh,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3065.png,0.0,450.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,850,2900,2030,1620.0,0.5586206896551724
+Giáp Tâm Linh,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3065.png,0.0,450.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,850,2900,2030,1620.0,0.5586206896551724
+Đai Thanh Thoát,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3066.png,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,800,560,240.0,0.3
+Đai Thanh Thoát,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3066.png,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,800,560,240.0,0.3
+Đai Thanh Thoát,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3066.png,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,800,560,240.0,0.3
+Hỏa Ngọc,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3067.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,800,560,320.0,0.4
+Hỏa Ngọc,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3067.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,800,560,320.0,0.4
+Hỏa Ngọc,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3067.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,800,560,320.0,0.4
+Khiên Thái Dương,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3068.png,0.0,500.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,900,2700,1890,1800.0,0.6666666666666666
+Khiên Thái Dương,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3068.png,0.0,500.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,900,2700,1890,1800.0,0.6666666666666666
+Khiên Thái Dương,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3068.png,0.0,500.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,900,2700,1890,1800.0,0.6666666666666666
+Nước Mắt Nữ Thần,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3070.png,0.0,0.0,0.0,0.0,240.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,280,336.0,0.84
+Nước Mắt Nữ Thần,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3070.png,0.0,0.0,0.0,0.0,240.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,280,336.0,0.84
+Nước Mắt Nữ Thần,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3070.png,0.0,0.0,0.0,0.0,240.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,280,336.0,0.84
+Rìu Đen,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3071.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,850,3100,2170,1640.0,0.5290322580645161
+Rìu Đen,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3071.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,850,3100,2170,1640.0,0.5290322580645161
+Rìu Đen,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3071.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,850,3100,2170,1640.0,0.5290322580645161
+Huyết Kiếm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3072.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.0,0.18,0.0,0.0,400,3200,2240,4214.285714285714,1.3169642857142856
+Huyết Kiếm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3072.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.0,0.18,0.0,0.0,400,3200,2240,4214.285714285714,1.3169642857142856
+Huyết Kiếm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3072.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.0,0.18,0.0,0.0,400,3200,2240,4214.285714285714,1.3169642857142856
+Rìu Mãng Xà,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3074.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,0.1,0.0,0.0,200,3400,2380,2585.7142857142853,0.7605042016806721
+Rìu Mãng Xà,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3074.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,0.1,0.0,0.0,200,3400,2380,2585.7142857142853,0.7605042016806721
+Rìu Mãng Xà,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3074.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,0.1,0.0,0.0,200,3400,2380,2585.7142857142853,0.7605042016806721
+Giáp Gai,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3075.png,0.0,350.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,1000,2700,1890,1960.0,0.725925925925926
+Giáp Gai,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3075.png,0.0,350.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,1000,2700,1890,1960.0,0.725925925925926
+Giáp Gai,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3075.png,0.0,350.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,1000,2700,1890,1960.0,0.725925925925926
+Áo Choàng Gai,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3076.png,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,200,800,560,600.0,0.75
+Áo Choàng Gai,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3076.png,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,200,800,560,600.0,0.75
+Áo Choàng Gai,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3076.png,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,200,800,560,600.0,0.75
+Rìu Tiamat,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3077.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,325,1200,840,500.0,0.4166666666666667
+Rìu Tiamat,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3077.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,325,1200,840,500.0,0.4166666666666667
+Rìu Tiamat,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3077.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,325,1200,840,500.0,0.4166666666666667
+Tam Hợp Kiếm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3078.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,40.0,0.35,0.0,0.0,0.0,733,3333,2333,2155.0,0.6465646564656465
+Tam Hợp Kiếm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3078.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,40.0,0.35,0.0,0.0,0.0,733,3333,2333,2155.0,0.6465646564656465
+Tam Hợp Kiếm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3078.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,40.0,0.35,0.0,0.0,0.0,733,3333,2333,2155.0,0.6465646564656465
+Giáp Cai Ngục,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3082.png,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,400,1000,700,800.0,0.8
+Giáp Cai Ngục,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3082.png,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,400,1000,700,800.0,0.8
+Giáp Cai Ngục,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3082.png,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,400,1000,700,800.0,0.8
+Giáp Máu Warmog,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3083.png,0.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,3000,2100,1280.0,0.4266666666666667
+Giáp Máu Warmog,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3083.png,0.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,3000,2100,1280.0,0.4266666666666667
+Giáp Máu Warmog,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3083.png,0.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500,3000,2100,1280.0,0.4266666666666667
+Trái Tim Khổng Thần,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3084.png,0.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,3200,2240,1280.0,0.4
+Trái Tim Khổng Thần,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3084.png,0.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,3200,2240,1280.0,0.4
+Trái Tim Khổng Thần,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3084.png,0.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,3200,2240,1280.0,0.4
+Cuồng Cung Runaan,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3085.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.07,1000,2800,1960,3340.0,1.1928571428571428
+Cuồng Cung Runaan,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3085.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.07,1000,2800,1960,3340.0,1.1928571428571428
+Cuồng Cung Runaan,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3085.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.07,1000,2800,1960,3340.0,1.1928571428571428
+Song Kiếm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3086.png,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.15,0.0,0.0,0.05,200,1100,770,2075.0,1.8863636363636365
+Song Kiếm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3086.png,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.15,0.0,0.0,0.05,200,1100,770,2075.0,1.8863636363636365
+Song Kiếm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3086.png,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.15,0.0,0.0,0.05,200,1100,770,2075.0,1.8863636363636365
+Dao Điện Statikk,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3087.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,45.0,0.25,0.0,0.0,0.0,400,3000,2100,2325.0,0.775
+Dao Điện Statikk,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3087.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,45.0,0.25,0.0,0.0,0.0,400,3000,2100,2325.0,0.775
+Dao Điện Statikk,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3087.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,45.0,0.25,0.0,0.0,0.0,400,3000,2100,2325.0,0.775
+Mũ Phù Thủy Rabadon,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3089.png,0.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1100,3600,2520,1200.0,0.3333333333333333
+Mũ Phù Thủy Rabadon,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3089.png,0.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1100,3600,2520,1200.0,0.3333333333333333
+Mũ Phù Thủy Rabadon,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3089.png,0.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1100,3600,2520,1200.0,0.3333333333333333
+Đao Tím,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3091.png,0.0,0.0,0.0,0.0,0.0,0.0,40.0,40.0,0.4,0.0,0.0,0.0,950,3200,2240,2520.0,0.7875
+Đao Tím,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3091.png,0.0,0.0,0.0,0.0,0.0,0.0,40.0,40.0,0.4,0.0,0.0,0.0,950,3200,2240,2520.0,0.7875
+Đao Tím,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3091.png,0.0,0.0,0.0,0.0,0.0,0.0,40.0,40.0,0.4,0.0,0.0,0.0,950,3200,2240,2520.0,0.7875
+Đại Bác Liên Thanh,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3094.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,30.0,0.15,0.0,0.0,0.07,850,3000,2100,3315.0,1.105
+Đại Bác Liên Thanh,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3094.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,30.0,0.15,0.0,0.0,0.07,850,3000,2100,3315.0,1.105
+Đại Bác Liên Thanh,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3094.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,30.0,0.15,0.0,0.0,0.07,850,3000,2100,3315.0,1.105
+Phong Thần Kiếm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3095.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,50.0,0.15,0.0,0.0,0.0,400,3000,2100,2175.0,0.725
+Phong Thần Kiếm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3095.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,50.0,0.15,0.0,0.0,0.0,400,3000,2100,2175.0,0.725
+Phong Thần Kiếm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3095.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,50.0,0.15,0.0,0.0,0.0,400,3000,2100,2175.0,0.725
+Kiếm Tai Ương,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3100.png,0.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,550,3000,2100,2610.0,0.87
+Kiếm Tai Ương,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3100.png,0.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,550,3000,2100,2610.0,0.87
+Kiếm Tai Ương,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3100.png,0.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,550,3000,2100,2610.0,0.87
+Dây Chuyền Chữ Thập,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3102.png,0.0,0.0,0.0,80.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,700,2600,1820,1610.0,0.6192307692307693
+Dây Chuyền Chữ Thập,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3102.png,0.0,0.0,0.0,80.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,700,2600,1820,1610.0,0.6192307692307693
+Dây Chuyền Chữ Thập,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3102.png,0.0,0.0,0.0,80.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,700,2600,1820,1610.0,0.6192307692307693
+Lá Chắn Quân Đoàn,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3105.png,0.0,0.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,450,1200,840,1140.0,0.95
+Lá Chắn Quân Đoàn,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3105.png,0.0,0.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,450,1200,840,1140.0,0.95
+Lá Chắn Quân Đoàn,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3105.png,0.0,0.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,450,1200,840,1140.0,0.95
+Dây Chuyền Chuộc Tội,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3107.png,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,400.0,0.17391304347826086
+Dây Chuyền Chuộc Tội,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3107.png,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,400.0,0.17391304347826086
+Dây Chuyền Chuộc Tội,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3107.png,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,400.0,0.17391304347826086
+Sách Quỷ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3108.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,900,630,350.0,0.3888888888888889
+Sách Quỷ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3108.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,900,630,350.0,0.3888888888888889
+Sách Quỷ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3108.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,900,630,350.0,0.3888888888888889
+Lời Thề Hiệp Sĩ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3109.png,0.0,350.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,350,2200,1540,1060.0,0.4818181818181818
+Lời Thề Hiệp Sĩ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3109.png,0.0,350.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,350,2200,1540,1060.0,0.4818181818181818
+Lời Thề Hiệp Sĩ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3109.png,0.0,350.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,350,2200,1540,1060.0,0.4818181818181818
+Tim Băng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3110.png,0.0,0.0,0.0,0.0,400.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,800,2700,1890,2360.0,0.8740740740740741
+Tim Băng,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3110.png,0.0,0.0,0.0,0.0,400.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,800,2700,1890,2360.0,0.8740740740740741
+Tim Băng,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3110.png,0.0,0.0,0.0,0.0,400.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,800,2700,1890,2360.0,0.8740740740740741
+Giày Thủy Ngân,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3111.png,45.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,350,1100,770,841.304347826087,0.7648221343873518
+Giày Thủy Ngân,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3111.png,45.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,350,1100,770,841.304347826087,0.7648221343873518
+Giày Thủy Ngân,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3111.png,45.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,350,1100,770,841.304347826087,0.7648221343873518
+Băng Cầu Vệ Quân,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3112.png,0.0,150.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,950,950,665,740.0,0.7789473684210526
+Linh Hồn Lạc Lõng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3113.png,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,415,850,595,300.0,0.35294117647058826
+Linh Hồn Lạc Lõng,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3113.png,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,415,850,595,300.0,0.35294117647058826
+Linh Hồn Lạc Lõng,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3113.png,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,415,850,595,300.0,0.35294117647058826
+Dị Vật Tai Ương,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3114.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,800,560,0.0,0.0
+Dị Vật Tai Ương,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3114.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,800,560,0.0,0.0
+Dị Vật Tai Ương,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3114.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,800,560,0.0,0.0
+Nanh Nashor,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3115.png,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,750,3200,2240,2250.0,0.703125
+Nanh Nashor,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3115.png,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,750,3200,2240,2250.0,0.703125
+Nanh Nashor,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3115.png,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,750,3200,2240,2250.0,0.703125
+Trượng Pha Lê Rylai,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3116.png,0.0,400.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,415,2600,1820,1390.0,0.5346153846153846
+Trượng Pha Lê Rylai,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3116.png,0.0,400.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,415,2600,1820,1390.0,0.5346153846153846
+Trượng Pha Lê Rylai,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3116.png,0.0,400.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,415,2600,1820,1390.0,0.5346153846153846
+Giày Cơ Động,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3117.png,115.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,1000,700,1000.0,1.0
+Giày Cơ Động,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3117.png,115.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,1000,700,1000.0,1.0
+Giày Cơ Động,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3117.png,115.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,1000,700,1000.0,1.0
+Băng Giáp,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3119.png,0.0,400.0,0.0,0.0,500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1000,2600,1820,1340.0,0.5153846153846153
+Băng Giáp,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3119.png,0.0,400.0,0.0,0.0,500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1000,2600,1820,1340.0,0.5153846153846153
+Băng Giáp,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3119.png,0.0,400.0,0.0,0.0,500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1000,2600,1820,1340.0,0.5153846153846153
+Băng Giáp Vĩnh Cửu,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3121.png,0.0,400.0,0.0,0.0,860.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2700,2700,1890,1844.0,0.682962962962963
+Băng Giáp Vĩnh Cửu,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3121.png,0.0,400.0,0.0,0.0,860.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2700,2700,1890,1844.0,0.682962962962963
+Băng Giáp Vĩnh Cửu,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3121.png,0.0,400.0,0.0,0.0,860.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2700,2700,1890,1844.0,0.682962962962963
+Gươm Đồ Tể,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3123.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,450,800,560,300.0,0.375
+Gươm Đồ Tể,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3123.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,450,800,560,300.0,0.375
+Gươm Đồ Tể,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3123.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,450,800,560,300.0,0.375
+Cuồng Đao Guinsoo,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3124.png,0.0,0.0,0.0,30.0,0.0,0.0,0.0,30.0,0.25,0.0,0.0,0.0,690,3200,2240,1525.0,0.4765625
+Cuồng Đao Guinsoo,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3124.png,0.0,0.0,0.0,30.0,0.0,0.0,0.0,30.0,0.25,0.0,0.0,0.0,690,3200,2240,1525.0,0.4765625
+Cuồng Đao Guinsoo,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3124.png,0.0,0.0,0.0,30.0,0.0,0.0,0.0,30.0,0.25,0.0,0.0,0.0,690,3200,2240,1525.0,0.4765625
+Búa Chiến Caulfield,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3133.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,400,1100,770,500.0,0.45454545454545453
+Búa Chiến Caulfield,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3133.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,400,1100,770,500.0,0.45454545454545453
+Búa Chiến Caulfield,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3133.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,400,1100,770,500.0,0.45454545454545453
+Dao Hung Tàn,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3134.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,400,1100,770,600.0,0.5454545454545454
+Dao Hung Tàn,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3134.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,400,1100,770,600.0,0.5454545454545454
+Dao Hung Tàn,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3134.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,400,1100,770,600.0,0.5454545454545454
+Trượng Hư Vô,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3135.png,0.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,2800,1960,650.0,0.23214285714285715
+Trượng Hư Vô,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3135.png,0.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,2800,1960,650.0,0.23214285714285715
+Trượng Hư Vô,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3135.png,0.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,2800,1960,650.0,0.23214285714285715
+Đao Thủy Ngân,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3139.png,0.0,0.0,0.2,0.0,0.0,0.0,50.0,40.0,0.0,0.0,0.0,0.0,225,3000,2100,2500.0,0.8333333333333334
+Đao Thủy Ngân,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3139.png,0.0,0.0,0.2,0.0,0.0,0.0,50.0,40.0,0.0,0.0,0.0,0.0,225,3000,2100,2500.0,0.8333333333333334
+Đao Thủy Ngân,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3139.png,0.0,0.0,0.2,0.0,0.0,0.0,50.0,40.0,0.0,0.0,0.0,0.0,225,3000,2100,2500.0,0.8333333333333334
+Khăn Giải Thuật,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3140.png,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,850,1300,910,540.0,0.4153846153846154
+Khăn Giải Thuật,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3140.png,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,850,1300,910,540.0,0.4153846153846154
+Khăn Giải Thuật,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3140.png,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,850,1300,910,540.0,0.4153846153846154
+Kiếm Ma Youmuu,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3142.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,900,3100,2170,1200.0,0.3870967741935484
+Kiếm Ma Youmuu,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3142.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,900,3100,2170,1200.0,0.3870967741935484
+Kiếm Ma Youmuu,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3142.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,900,3100,2170,1200.0,0.3870967741935484
+Khiên Băng Randuin,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3143.png,0.0,400.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,1100,3000,2100,1840.0,0.6133333333333333
+Khiên Băng Randuin,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3143.png,0.0,400.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,1100,3000,2100,1840.0,0.6133333333333333
+Khiên Băng Randuin,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3143.png,0.0,400.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,1100,3000,2100,1840.0,0.6133333333333333
+Máy Chuyển Pha Hextech,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3145.png,0.0,150.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,215,1050,735,490.0,0.4666666666666667
+Máy Chuyển Pha Hextech,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3145.png,0.0,150.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,215,1050,735,490.0,0.4666666666666667
+Máy Chuyển Pha Hextech,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3145.png,0.0,150.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,215,1050,735,490.0,0.4666666666666667
+Đai Tên Lửa Hextech,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3152.png,0.0,250.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,865,3200,2240,1300.0,0.40625
+Đai Tên Lửa Hextech,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3152.png,0.0,250.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,865,3200,2240,1300.0,0.40625
+Đai Tên Lửa Hextech,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3152.png,0.0,250.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,865,3200,2240,1300.0,0.40625
+Gươm Suy Vong,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3153.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.25,0.08,0.0,0.0,825,3300,2310,2453.5714285714284,0.7435064935064934
+Gươm Suy Vong,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3153.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.25,0.08,0.0,0.0,825,3300,2310,2453.5714285714284,0.7435064935064934
+Gươm Suy Vong,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3153.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.25,0.08,0.0,0.0,825,3300,2310,2453.5714285714284,0.7435064935064934
+Kiếm Răng Cưa,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3155.png,0.0,0.0,0.0,0.0,0.0,0.0,35.0,25.0,0.0,0.0,0.0,0.0,500,1300,910,1130.0,0.8692307692307693
+Kiếm Răng Cưa,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3155.png,0.0,0.0,0.0,0.0,0.0,0.0,35.0,25.0,0.0,0.0,0.0,0.0,500,1300,910,1130.0,0.8692307692307693
+Kiếm Răng Cưa,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3155.png,0.0,0.0,0.0,0.0,0.0,0.0,35.0,25.0,0.0,0.0,0.0,0.0,500,1300,910,1130.0,0.8692307692307693
+Chùy Gai Malmortius,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3156.png,0.0,0.0,0.0,0.0,0.0,0.0,50.0,65.0,0.0,0.0,0.0,0.0,275,2800,1960,2200.0,0.7857142857142857
+Chùy Gai Malmortius,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3156.png,0.0,0.0,0.0,0.0,0.0,0.0,50.0,65.0,0.0,0.0,0.0,0.0,275,2800,1960,2200.0,0.7857142857142857
+Chùy Gai Malmortius,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3156.png,0.0,0.0,0.0,0.0,0.0,0.0,50.0,65.0,0.0,0.0,0.0,0.0,275,2800,1960,2200.0,0.7857142857142857
+Đồng Hồ Cát Zhonya,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3157.png,0.0,0.0,0.0,80.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,350,3000,2100,1700.0,0.5666666666666667
+Đồng Hồ Cát Zhonya,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3157.png,0.0,0.0,0.0,80.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,350,3000,2100,1700.0,0.5666666666666667
+Đồng Hồ Cát Zhonya,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3157.png,0.0,0.0,0.0,80.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,350,3000,2100,1700.0,0.5666666666666667
+Giày Khai Sáng Ionia,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3158.png,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,650,950,665,391.30434782608694,0.41189931350114417
+Giày Khai Sáng Ionia,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3158.png,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,650,950,665,391.30434782608694,0.41189931350114417
+Giày Khai Sáng Ionia,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3158.png,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,650,950,665,391.30434782608694,0.41189931350114417
+Ngọn Giáo Shojin,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3161.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,200,3400,2380,1780.0,0.5235294117647059
+Ngọn Giáo Shojin,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3161.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,200,3400,2380,1780.0,0.5235294117647059
+Ngọn Giáo Shojin,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3161.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,200,3400,2380,1780.0,0.5235294117647059
+Quỷ Thư Morello,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3165.png,0.0,200.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,715,3000,2100,1220.0,0.4066666666666667
+Quỷ Thư Morello,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3165.png,0.0,200.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,715,3000,2100,1220.0,0.4066666666666667
+Quỷ Thư Morello,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3165.png,0.0,200.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,715,3000,2100,1220.0,0.4066666666666667
+Kiếm Vệ Quân,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3177.png,0.0,150.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,950,950,665,840.0,0.8842105263157894
+Kiếm Âm U,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3179.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,500,2300,1610,1000.0,0.43478260869565216
+Kiếm Âm U,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3179.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,500,2300,1610,1000.0,0.43478260869565216
+Kiếm Âm U,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3179.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,500,2300,1610,1000.0,0.43478260869565216
+Búa Tiến Công ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3181.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.05,225,3000,2100,2940.0,0.98
+Búa Tiến Công ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3181.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.05,225,3000,2100,2940.0,0.98
+Búa Vệ Quân,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3184.png,0.0,150.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.07,0.0,0.0,950,950,665,1640.0,1.7263157894736842
+Dây Chuyền Iron Solari,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3190.png,0.0,200.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,800,2300,1610,1460.0,0.6347826086956522
+Dây Chuyền Iron Solari,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3190.png,0.0,200.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,800,2300,1610,1460.0,0.6347826086956522
+Dây Chuyền Iron Solari,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3190.png,0.0,200.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,800,2300,1610,1460.0,0.6347826086956522
+Giáp Tay Seeker,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3191.png,0.0,0.0,0.0,30.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,265,1000,700,600.0,0.6
+Giáp Tay Seeker,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3191.png,0.0,0.0,0.0,30.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,265,1000,700,600.0,0.6
+Giáp Tay Seeker,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3191.png,0.0,0.0,0.0,30.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,265,1000,700,600.0,0.6
+Thú Tượng Thạch Giáp,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3193.png,0.0,0.0,0.0,0.0,0.0,60.0,60.0,0.0,0.0,0.0,0.0,0.0,1250,3200,2240,2280.0,0.7125
+Thú Tượng Thạch Giáp,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3193.png,0.0,0.0,0.0,0.0,0.0,60.0,60.0,0.0,0.0,0.0,0.0,0.0,1250,3200,2240,2280.0,0.7125
+Thú Tượng Thạch Giáp,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3193.png,0.0,0.0,0.0,0.0,0.0,60.0,60.0,0.0,0.0,0.0,0.0,0.0,1250,3200,2240,2280.0,0.7125
+Áo Choàng Ám Ảnh,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3211.png,0.0,250.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,400,1250,875,850.0,0.68
+Áo Choàng Ám Ảnh,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3211.png,0.0,250.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,400,1250,875,850.0,0.68
+Áo Choàng Ám Ảnh,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3211.png,0.0,250.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,400,1250,875,850.0,0.68
+Chuông Bảo Hộ Mikael,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3222.png,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,400.0,0.17391304347826086
+Chuông Bảo Hộ Mikael,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3222.png,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,400.0,0.17391304347826086
+Chuông Bảo Hộ Mikael,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3222.png,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,400.0,0.17391304347826086
+Bù Nhìn Kỳ Quái,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3330.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Bù Nhìn Kỳ Quái,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3330.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Bù Nhìn Kỳ Quái,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3330.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mắt Xanh,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3340.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mắt Xanh,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3340.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Thấu Kính Viễn Thị,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3363.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Thấu Kính Viễn Thị,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3363.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Thấu Kính Viễn Thị,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3363.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Máy Quét Oracle,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3364.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Máy Quét Oracle,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3364.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Tiền Ăn Chia,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3400.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Tiền Ăn Chia,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3400.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Tiền Ăn Chia,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3400.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Lư Hương Sôi Sục,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3504.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,450,2100,1470,1450.0,0.6904761904761905
+Lư Hương Sôi Sục,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3504.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,450,2100,1470,1450.0,0.6904761904761905
+Lư Hương Sôi Sục,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3504.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,450,2100,1470,1450.0,0.6904761904761905
+Luỡi Hái Linh Hồn,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3508.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,500,2900,2030,1900.0,0.6551724137931034
+Luỡi Hái Linh Hồn,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3508.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,500,2900,2030,1900.0,0.6551724137931034
+Luỡi Hái Linh Hồn,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3508.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,500,2900,2030,1900.0,0.6551724137931034
+Mắt Sứ Giả,,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3513.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mũi Giáo Hắc Ám (Kalista),Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3599.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mũi Giáo Hắc Ám (Kalista),Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3599.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mũi Giáo Hắc Ám (Kalista),Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3599.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mũi Giáo Hắc Ám (Kalista),Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3600.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mũi Giáo Hắc Ám (Kalista),Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3600.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Mũi Giáo Hắc Ám (Kalista),Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3600.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Giáp Liệt Sĩ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3742.png,0.0,300.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.05,900,2900,2030,2480.0,0.8551724137931035
+Giáp Liệt Sĩ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3742.png,0.0,300.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.05,900,2900,2030,2480.0,0.8551724137931035
+Giáp Liệt Sĩ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3742.png,0.0,300.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.05,900,2900,2030,2480.0,0.8551724137931035
+Rìu Đại Mãng Xà,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3748.png,0.0,500.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,800,3300,2310,1400.0,0.42424242424242425
+Rìu Đại Mãng Xà,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3748.png,0.0,500.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,800,3300,2310,1400.0,0.42424242424242425
+Rìu Đại Mãng Xà,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3748.png,0.0,500.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,800,3300,2310,1400.0,0.42424242424242425
+Vòng Tay Pha Lê,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3801.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100,800,560,320.0,0.4
+Vòng Tay Pha Lê,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3801.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100,800,560,320.0,0.4
+Vòng Tay Pha Lê,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3801.png,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100,800,560,320.0,0.4
+Bí Chương Thất Truyền,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3802.png,0.0,0.0,0.0,40.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,315,1100,770,820.0,0.7454545454545455
+Bí Chương Thất Truyền,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3802.png,0.0,0.0,0.0,40.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,315,1100,770,820.0,0.7454545454545455
+Bí Chương Thất Truyền,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3802.png,0.0,0.0,0.0,40.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,315,1100,770,820.0,0.7454545454545455
+Đá Vĩnh Hằng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3803.png,0.0,300.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,1300,910,900.0,0.6923076923076923
+Đá Vĩnh Hằng,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3803.png,0.0,300.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,1300,910,900.0,0.6923076923076923
+Đá Vĩnh Hằng,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3803.png,0.0,300.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,1300,910,900.0,0.6923076923076923
+Áo Choàng Bóng Tối,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3814.png,0.0,325.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,1050,2900,2030,1520.0,0.5241379310344828
+Áo Choàng Bóng Tối,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3814.png,0.0,325.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,1050,2900,2030,1520.0,0.5241379310344828
+Áo Choàng Bóng Tối,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3814.png,0.0,325.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,1050,2900,2030,1520.0,0.5241379310344828
+Lưỡi Gươm Đoạt Thuật,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3850.png,0.0,10.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,160,96.0,0.24
+Nanh Băng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3851.png,0.0,70.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,160,262.0,0.655
+Mảnh Chân Băng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3853.png,0.0,75.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,160,520.0,1.3
+Giáp Thép,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3854.png,0.0,30.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,400,400,160,108.0,0.27
+Giáp Thép Cổ Ngữ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3855.png,0.0,100.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,400,400,160,280.0,0.7
+Giáp Bạch Ngọc,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3857.png,0.0,250.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,400,400,160,700.0,1.75
+Khiên Cổ Vật,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3858.png,0.0,30.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,160,98.0,0.245
+Lá Chắn Targon,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3859.png,0.0,100.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,160,260.0,0.65
+Pháo Đài Sơn Thạch,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3860.png,0.0,250.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,400,160,600.0,1.5
+Liềm Ma,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3862.png,0.0,10.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,400,400,160,116.0,0.29
+Lưỡi Hái U Linh,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3863.png,0.0,60.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,400,400,160,296.0,0.74
+Lưỡi Hái Sương Đen,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3864.png,0.0,75.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,400,400,160,520.0,1.3
+<rarityLegendary>Mưa Bom Bão Đạn</rarityLegendary><br><subtitleLeft><silver>500 đồng Ngân Xà</silver></subtitleLeft>,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3901.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+<rarityLegendary>Mưa Bom Bão Đạn</rarityLegendary><br><subtitleLeft><silver>500 đồng Ngân Xà</silver></subtitleLeft>,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3901.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+<rarityLegendary>Mưa Bom Bão Đạn</rarityLegendary><br><subtitleLeft><silver>500 đồng Ngân Xà</silver></subtitleLeft>,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3901.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+<rarityLegendary>Hậu Duệ Tử Thần</rarityLegendary><br><subtitleLeft><silver>500 đồng Ngân Xà</silver></subtitleLeft>,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3902.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+<rarityLegendary>Hậu Duệ Tử Thần</rarityLegendary><br><subtitleLeft><silver>500 đồng Ngân Xà</silver></subtitleLeft>,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3902.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+<rarityLegendary>Hậu Duệ Tử Thần</rarityLegendary><br><subtitleLeft><silver>500 đồng Ngân Xà</silver></subtitleLeft>,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3902.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+<rarityLegendary>Hào Khí Dâng Cao</rarityLegendary><br><subtitleLeft><silver>500 đồng Ngân Xà</silver></subtitleLeft>,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3903.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+<rarityLegendary>Hào Khí Dâng Cao</rarityLegendary><br><subtitleLeft><silver>500 đồng Ngân Xà</silver></subtitleLeft>,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3903.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+<rarityLegendary>Hào Khí Dâng Cao</rarityLegendary><br><subtitleLeft><silver>500 đồng Ngân Xà</silver></subtitleLeft>,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3903.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Ngọc Quên Lãng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3916.png,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,365,800,560,300.0,0.375
+Ngọc Quên Lãng,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3916.png,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,365,800,560,300.0,0.375
+Ngọc Quên Lãng,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3916.png,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,365,800,560,300.0,0.375
+Trát Lệnh Đế Vương,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4005.png,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,450,2300,1610,550.0,0.2391304347826087
+Trát Lệnh Đế Vương,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4005.png,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,450,2300,1610,550.0,0.2391304347826087
+Trát Lệnh Đế Vương,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4005.png,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,450,2300,1610,550.0,0.2391304347826087
+Giáp Thiên Nhiên,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4401.png,0.0,400.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.05,700,2800,1960,2820.0,1.0071428571428571
+Giáp Thiên Nhiên,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4401.png,0.0,400.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.05,700,2800,1960,2820.0,1.0071428571428571
+Giáp Thiên Nhiên,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4401.png,0.0,400.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.05,700,2800,1960,2820.0,1.0071428571428571
+Xẻng Vàng Ròng,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4403.png,0.0,250.0,0.3,120.0,250.0,30.0,30.0,70.0,0.5,0.1,0.0,0.1,687,7237,5066,10425.714285714286,1.4406127242938076
+Kính Nhắm Ma Pháp,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4628.png,0.0,150.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1050,3000,2100,1240.0,0.41333333333333333
+Kính Nhắm Ma Pháp,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4628.png,0.0,150.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1050,3000,2100,1240.0,0.41333333333333333
+Kính Nhắm Ma Pháp,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4628.png,0.0,150.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1050,3000,2100,1240.0,0.41333333333333333
+Động Cơ Vũ Trụ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4629.png,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,815,3000,2100,2100.0,0.7
+Động Cơ Vũ Trụ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4629.png,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,815,3000,2100,2100.0,0.7
+Động Cơ Vũ Trụ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4629.png,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,815,3000,2100,2100.0,0.7
+Đá Hắc Hóa,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4630.png,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,815,1250,875,250.0,0.2
+Đá Hắc Hóa,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4630.png,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,815,1250,875,250.0,0.2
+Đá Hắc Hóa,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4630.png,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,815,1250,875,250.0,0.2
+Dây Chuyền Sự Sống,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4632.png,0.0,0.0,0.0,20.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,115,1000,700,650.0,0.65
+Dây Chuyền Sự Sống,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4632.png,0.0,0.0,0.0,20.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,115,1000,700,650.0,0.65
+Dây Chuyền Sự Sống,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4632.png,0.0,0.0,0.0,20.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,115,1000,700,650.0,0.65
+Quyền Trượng Ác Thần,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4633.png,0.0,300.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1050,3200,2240,1180.0,0.36875
+Quyền Trượng Ác Thần,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4633.png,0.0,300.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1050,3200,2240,1180.0,0.36875
+Quyền Trượng Ác Thần,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4633.png,0.0,300.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1050,3200,2240,1180.0,0.36875
+Trượng Ác Ma,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4635.png,0.0,250.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,1300,910,600.0,0.46153846153846156
+Trượng Ác Ma,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4635.png,0.0,250.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,1300,910,600.0,0.46153846153846156
+Trượng Ác Ma,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4635.png,0.0,250.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,1300,910,600.0,0.46153846153846156
+Lưỡi Hái Bóng Đêm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4636.png,0.0,300.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,815,3200,2240,1380.0,0.43125
+Lưỡi Hái Bóng Đêm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4636.png,0.0,300.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,815,3200,2240,1380.0,0.43125
+Lưỡi Hái Bóng Đêm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4636.png,0.0,300.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,815,3200,2240,1380.0,0.43125
+Mũ Trụ Nguyền Rủa,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4637.png,0.0,350.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,815,3000,2100,1310.0,0.43666666666666665
+Mũ Trụ Nguyền Rủa,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4637.png,0.0,350.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,815,3000,2100,1310.0,0.43666666666666665
+Mũ Trụ Nguyền Rủa,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4637.png,0.0,350.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,815,3000,2100,1310.0,0.43666666666666665
+Đá Tỏa Sáng - Cảnh Giác,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4638.png,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1100,1100,770,240.0,0.21818181818181817
+Đá Tỏa Sáng - Bất Định,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4641.png,0.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350,350,140,128.0,0.3657142857142857
+Gương Thần Bandle,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4642.png,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,265,950,665,200.0,0.21052631578947367
+Gương Thần Bandle,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4642.png,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,265,950,665,200.0,0.21052631578947367
+Gương Thần Bandle,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4642.png,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,265,950,665,200.0,0.21052631578947367
+Đá Tỏa Sáng - Bảo Hộ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4643.png,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1200,2300,1610,400.0,0.17391304347826086
+Vương Miện Suy Vong,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4644.png,0.0,250.0,0.0,70.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,2800,1960,1940.0,0.6928571428571428
+Vương Miện Suy Vong,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4644.png,0.0,250.0,0.0,70.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,2800,1960,1940.0,0.6928571428571428
+Vương Miện Suy Vong,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4644.png,0.0,250.0,0.0,70.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,2800,1960,1940.0,0.6928571428571428
+Ngọn Lửa Hắc Hóa,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4645.png,0.0,200.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,3000,2100,1320.0,0.44
+Ngọn Lửa Hắc Hóa,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4645.png,0.0,200.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,3000,2100,1320.0,0.44
+Ngọn Lửa Hắc Hóa,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/4645.png,0.0,200.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700,3000,2100,1320.0,0.44
+Dây Thép Gai,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6029.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,225,1100,770,600.0,0.5454545454545454
+Dây Thép Gai,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6029.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,225,1100,770,600.0,0.5454545454545454
+Dây Thép Gai,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6029.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,225,1100,770,600.0,0.5454545454545454
+Chùy Bạch Ngân,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6035.png,0.0,300.0,0.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,425,3000,2100,2000.0,0.6666666666666666
+Chùy Bạch Ngân,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6035.png,0.0,300.0,0.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,425,3000,2100,2000.0,0.6666666666666666
+Chùy Bạch Ngân,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6035.png,0.0,300.0,0.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,425,3000,2100,2000.0,0.6666666666666666
+Vũ Điệu Tử Thần,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6333.png,0.0,0.0,0.0,0.0,0.0,45.0,0.0,55.0,0.0,0.0,0.0,0.0,525,3300,2310,2000.0,0.6060606060606061
+Vũ Điệu Tử Thần,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6333.png,0.0,0.0,0.0,0.0,0.0,45.0,0.0,55.0,0.0,0.0,0.0,0.0,525,3300,2310,2000.0,0.6060606060606061
+Vũ Điệu Tử Thần,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6333.png,0.0,0.0,0.0,0.0,0.0,45.0,0.0,55.0,0.0,0.0,0.0,0.0,525,3300,2310,2000.0,0.6060606060606061
+Cưa Xích Hóa Kỹ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6609.png,0.0,250.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,500,2800,1960,1500.0,0.5357142857142857
+Cưa Xích Hóa Kỹ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6609.png,0.0,250.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,500,2800,1960,1500.0,0.5357142857142857
+Cưa Xích Hóa Kỹ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6609.png,0.0,250.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,500,2800,1960,1500.0,0.5357142857142857
+Trượng Lưu Thủy,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6616.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,450,2100,1470,1450.0,0.6904761904761905
+Trượng Lưu Thủy,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6616.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,450,2100,1470,1450.0,0.6904761904761905
+Trượng Lưu Thủy,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6616.png,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,450,2100,1470,1450.0,0.6904761904761905
+Bùa Nguyệt Thạch,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6617.png,0.0,200.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,670.0,0.29130434782608694
+Bùa Nguyệt Thạch,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6617.png,0.0,200.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,670.0,0.29130434782608694
+Bùa Nguyệt Thạch,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6617.png,0.0,200.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550,2300,1610,670.0,0.29130434782608694
+Vọng Âm Helia,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6620.png,0.0,200.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,2300,1610,620.0,0.26956521739130435
+Vọng Âm Helia,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6620.png,0.0,200.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,2300,1610,620.0,0.26956521739130435
+Vọng Âm Helia,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6620.png,0.0,200.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400,2300,1610,620.0,0.26956521739130435
+Chùy Hấp Huyết,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6630.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,200,3200,2240,1580.0,0.49375
+Chùy Hấp Huyết,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6630.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,200,3200,2240,1580.0,0.49375
+Chùy Hấp Huyết,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6630.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,200,3200,2240,1580.0,0.49375
+Chùy Phản Kích,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6631.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,60.0,0.2,0.0,0.0,0.0,300,3300,2310,2180.0,0.6606060606060606
+Chùy Phản Kích,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6631.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,60.0,0.2,0.0,0.0,0.0,300,3300,2310,2180.0,0.6606060606060606
+Chùy Phản Kích,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6631.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,60.0,0.2,0.0,0.0,0.0,300,3300,2310,2180.0,0.6606060606060606
+Búa Rìu Sát Thần,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6632.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,700,3300,2310,1280.0,0.3878787878787879
+Búa Rìu Sát Thần,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6632.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,700,3300,2310,1280.0,0.3878787878787879
+Búa Rìu Sát Thần,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6632.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,700,3300,2310,1280.0,0.3878787878787879
+Mặt Nạ Thống Khổ Liandry,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6653.png,0.0,0.0,0.0,80.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1200,3200,2240,1640.0,0.5125
+Mặt Nạ Thống Khổ Liandry,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6653.png,0.0,0.0,0.0,80.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1200,3200,2240,1640.0,0.5125
+Mặt Nạ Thống Khổ Liandry,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6653.png,0.0,0.0,0.0,80.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1200,3200,2240,1640.0,0.5125
+Bão Tố Luden,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6655.png,0.0,0.0,0.0,80.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1250,3200,2240,1640.0,0.5125
+Bão Tố Luden,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6655.png,0.0,0.0,0.0,80.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1250,3200,2240,1640.0,0.5125
+Bão Tố Luden,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6655.png,0.0,0.0,0.0,80.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1250,3200,2240,1640.0,0.5125
+Băng Trượng Vĩnh Cửu,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6656.png,0.0,250.0,0.0,70.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,2800,1960,1940.0,0.6928571428571428
+Băng Trượng Vĩnh Cửu,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6656.png,0.0,250.0,0.0,70.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,2800,1960,1940.0,0.6928571428571428
+Băng Trượng Vĩnh Cửu,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6656.png,0.0,250.0,0.0,70.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,465,2800,1960,1940.0,0.6928571428571428
+Trượng Trường Sinh,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6657.png,0.0,400.0,0.0,60.0,400.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,215,2800,1960,1800.0,0.6428571428571429
+Trượng Trường Sinh,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6657.png,0.0,400.0,0.0,60.0,400.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,215,2800,1960,1800.0,0.6428571428571429
+Trượng Trường Sinh,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6657.png,0.0,400.0,0.0,60.0,400.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,215,2800,1960,1800.0,0.6428571428571429
+Tàn Tích Bami,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6660.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,200,1000,700,480.0,0.48
+Tàn Tích Bami,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6660.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,200,1000,700,480.0,0.48
+Tàn Tích Bami,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6660.png,0.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,200,1000,700,480.0,0.48
+Găng Tay Băng Giá,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6662.png,0.0,400.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,700,3000,2100,1640.0,0.5466666666666666
+Găng Tay Băng Giá,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6662.png,0.0,400.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,700,3000,2100,1640.0,0.5466666666666666
+Găng Tay Băng Giá,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6662.png,0.0,400.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,700,3000,2100,1640.0,0.5466666666666666
+Giáp Gia Tốc Hóa Cuồng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6664.png,0.0,500.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,700,2800,1960,1700.0,0.6071428571428571
+Giáp Gia Tốc Hóa Cuồng,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6664.png,0.0,500.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,700,2800,1960,1700.0,0.6071428571428571
+Giáp Gia Tốc Hóa Cuồng,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6664.png,0.0,500.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,700,2800,1960,1700.0,0.6071428571428571
+"Jak'Sho, Vỏ Bọc Thích Nghi",Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6665.png,0.0,400.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,800,3200,2240,1780.0,0.55625
+"Jak'Sho, Vỏ Bọc Thích Nghi",Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6665.png,0.0,400.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,800,3200,2240,1780.0,0.55625
+"Jak'Sho, Vỏ Bọc Thích Nghi",Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6665.png,0.0,400.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,800,3200,2240,1780.0,0.55625
+Ngọn Đuốc Thánh Quang,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6667.png,0.0,350.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,600,2700,1890,1700.0,0.6296296296296297
+Ngọn Đuốc Thánh Quang,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6667.png,0.0,350.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,600,2700,1890,1700.0,0.6296296296296297
+Ngọn Đuốc Thánh Quang,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6667.png,0.0,350.0,0.0,0.0,0.0,30.0,30.0,0.0,0.0,0.0,0.0,0.0,600,2700,1890,1700.0,0.6296296296296297
+Bó Tên Ánh Sáng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6670.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.15,0.0,0.0,0.0,300,1300,910,975.0,0.75
+Bó Tên Ánh Sáng,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6670.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.15,0.0,0.0,0.0,300,1300,910,975.0,0.75
+Bó Tên Ánh Sáng,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6670.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.15,0.0,0.0,0.0,300,1300,910,975.0,0.75
+Cung Phong Linh,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6671.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.15,0.0,0.0,0.07,650,3400,2380,3815.0,1.1220588235294118
+Cung Phong Linh,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6671.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.15,0.0,0.0,0.07,650,3400,2380,3815.0,1.1220588235294118
+Cung Phong Linh,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6671.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.15,0.0,0.0,0.07,650,3400,2380,3815.0,1.1220588235294118
+Móc Diệt Thủy Quái,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6672.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,40.0,0.3,0.0,0.0,0.0,400,3000,2100,2350.0,0.7833333333333333
+Móc Diệt Thủy Quái,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6672.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,40.0,0.3,0.0,0.0,0.0,400,3000,2100,2350.0,0.7833333333333333
+Móc Diệt Thủy Quái,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6672.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,40.0,0.3,0.0,0.0,0.0,400,3000,2100,2350.0,0.7833333333333333
+Nỏ Tử Thủ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6673.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,50.0,0.0,0.07,0.0,0.0,625,3000,2100,2700.0,0.9
+Nỏ Tử Thủ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6673.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,50.0,0.0,0.07,0.0,0.0,625,3000,2100,2700.0,0.9
+Nỏ Tử Thủ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6673.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,50.0,0.0,0.07,0.0,0.0,625,3000,2100,2700.0,0.9
+Đoản Đao Navori,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6675.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,400,3400,2380,2100.0,0.6176470588235294
+Đoản Đao Navori,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6675.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,400,3400,2380,2100.0,0.6176470588235294
+Đoản Đao Navori,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6675.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,400,3400,2380,2100.0,0.6176470588235294
+Súng Hải Tặc,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6676.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,425,3000,2100,1900.0,0.6333333333333333
+Súng Hải Tặc,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6676.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,425,3000,2100,1900.0,0.6333333333333333
+Súng Hải Tặc,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6676.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,425,3000,2100,1900.0,0.6333333333333333
+Dao Phẫn Nộ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6677.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,600,1200,840,625.0,0.5208333333333334
+Dao Phẫn Nộ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6677.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,600,1200,840,625.0,0.5208333333333334
+Dao Phẫn Nộ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6677.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,600,1200,840,625.0,0.5208333333333334
+Dạ Kiếm Draktharr,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6691.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,900,3100,2170,1200.0,0.3870967741935484
+Dạ Kiếm Draktharr,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6691.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,900,3100,2170,1200.0,0.3870967741935484
+Dạ Kiếm Draktharr,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6691.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,900,3100,2170,1200.0,0.3870967741935484
+Nguyệt Đao,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6692.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,900,3100,2170,1200.0,0.3870967741935484
+Nguyệt Đao,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6692.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,900,3100,2170,1200.0,0.3870967741935484
+Nguyệt Đao,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6692.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,900,3100,2170,1200.0,0.3870967741935484
+Móng Vuốt Ám Muội,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6693.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,800,3000,2100,1100.0,0.36666666666666664
+Móng Vuốt Ám Muội,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6693.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,800,3000,2100,1100.0,0.36666666666666664
+Móng Vuốt Ám Muội,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6693.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,800,3000,2100,1100.0,0.36666666666666664
+Thương Phục Hận Serylda,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6694.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,650,3200,2240,900.0,0.28125
+Thương Phục Hận Serylda,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6694.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,650,3200,2240,900.0,0.28125
+Thương Phục Hận Serylda,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6694.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,650,3200,2240,900.0,0.28125
+Kiếm Ác Xà,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6695.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,625,2600,1820,1100.0,0.4230769230769231
+Kiếm Ác Xà,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6695.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,625,2600,1820,1100.0,0.4230769230769231
+Kiếm Ác Xà,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6695.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,625,2600,1820,1100.0,0.4230769230769231
+Nguyên Tố Luân,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6696.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,800,3000,2100,1100.0,0.36666666666666664
+Nguyên Tố Luân,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6696.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,800,3000,2100,1100.0,0.36666666666666664
+Nguyên Tố Luân,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/6696.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,800,3000,2100,1100.0,0.36666666666666664
+Móng Vuốt Thú Săn,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0,3000,2100,1500.0,0.5
+Móng Vuốt Thú Săn,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0,3000,2100,1500.0,0.5
+Móng Vuốt Thú Săn,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0,3000,2100,1500.0,0.5
+Thiên Thực Đao,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,0.0,0.0,0.0,0.0,0,3100,2170,1600.0,0.5161290322580645
+Thiên Thực Đao,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,0.0,0.0,0.0,0.0,0,3100,2170,1600.0,0.5161290322580645
+Thiên Thực Đao,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,0.0,0.0,0.0,0.0,0,3100,2170,1600.0,0.5161290322580645
+Hắc Ám Kiếm Draktharr,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0,3100,2170,1500.0,0.4838709677419355
+Hắc Ám Kiếm Draktharr,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0,3100,2170,1500.0,0.4838709677419355
+Hắc Ám Kiếm Draktharr,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0,3100,2170,1500.0,0.4838709677419355
+Nắm Đấm Băng Hàn,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7005.png,0.0,550.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3000,2100,2280.0,0.76
+Nắm Đấm Băng Hàn,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7005.png,0.0,550.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3000,2100,2280.0,0.76
+Nắm Đấm Băng Hàn,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7005.png,0.0,550.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3000,2100,2280.0,0.76
+Cung Cuồng Phong,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7006.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,70.0,0.3,0.0,0.0,0.1,0,3400,2380,5150.0,1.5147058823529411
+Cung Cuồng Phong,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7006.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,70.0,0.3,0.0,0.0,0.1,0,3400,2380,5150.0,1.5147058823529411
+Cung Cuồng Phong,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7006.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,70.0,0.3,0.0,0.0,0.1,0,3400,2380,5150.0,1.5147058823529411
+Diệt Xà Thần,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7007.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,85.0,0.4,0.0,0.0,0.0,0,3000,2100,3500.0,1.1666666666666667
+Diệt Xà Thần,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7007.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,85.0,0.4,0.0,0.0,0.0,0,3000,2100,3500.0,1.1666666666666667
+Diệt Xà Thần,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7007.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,85.0,0.4,0.0,0.0,0.0,0,3000,2100,3500.0,1.1666666666666667
+Nỏ Huyết Thủ,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7008.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,60.0,0.0,0.08,0.0,0.0,0,3000,2100,3028.5714285714284,1.0095238095238095
+Nỏ Huyết Thủ,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7008.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,60.0,0.0,0.08,0.0,0.0,0,3000,2100,3028.5714285714284,1.0095238095238095
+Nỏ Huyết Thủ,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7008.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,60.0,0.0,0.08,0.0,0.0,0,3000,2100,3028.5714285714284,1.0095238095238095
+Quyền Trượng Icathia Tuyệt Diệt,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7009.png,0.0,450.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1620.0,0.50625
+Quyền Trượng Icathia Tuyệt Diệt,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7009.png,0.0,450.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1620.0,0.50625
+Quyền Trượng Icathia Tuyệt Diệt,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7009.png,0.0,450.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1620.0,0.50625
+Lưỡi Hái Chạng Vạng,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7010.png,0.0,400.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1840.0,0.575
+Lưỡi Hái Chạng Vạng,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7010.png,0.0,400.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1840.0,0.575
+Lưỡi Hái Chạng Vạng,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7010.png,0.0,400.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1840.0,0.575
+Đai Khinh Khí Nâng Cấp,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7011.png,0.0,350.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1760.0,0.55
+Đai Khinh Khí Nâng Cấp,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7011.png,0.0,350.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1760.0,0.55
+Đai Khinh Khí Nâng Cấp,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7011.png,0.0,350.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1760.0,0.55
+Mặt Nạ Ai Oán Liandry,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7012.png,0.0,0.0,0.0,110.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,2220.0,0.69375
+Mặt Nạ Ai Oán Liandry,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7012.png,0.0,0.0,0.0,110.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,2220.0,0.69375
+Mặt Nạ Ai Oán Liandry,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7012.png,0.0,0.0,0.0,110.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,2220.0,0.69375
+Mắt Bão Luden,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7013.png,0.0,0.0,0.0,100.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,2120.0,0.6625
+Mắt Bão Luden,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7013.png,0.0,0.0,0.0,100.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,2120.0,0.6625
+Mắt Bão Luden,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7013.png,0.0,0.0,0.0,100.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,2120.0,0.6625
+Mùa Đông Vĩnh Cửu,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7014.png,0.0,350.0,0.0,90.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2800,1960,2580.0,0.9214285714285714
+Mùa Đông Vĩnh Cửu,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7014.png,0.0,350.0,0.0,90.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2800,1960,2580.0,0.9214285714285714
+Mùa Đông Vĩnh Cửu,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7014.png,0.0,350.0,0.0,90.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2800,1960,2580.0,0.9214285714285714
+Chùy Cuồng Huyết,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7015.png,0.0,450.0,0.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0,3200,2240,2120.0,0.6625
+Chùy Cuồng Huyết,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7015.png,0.0,450.0,0.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0,3200,2240,2120.0,0.6625
+Chùy Cuồng Huyết,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7015.png,0.0,450.0,0.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0,3200,2240,2120.0,0.6625
+Chùy Phá Kích,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7016.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,70.0,0.3,0.0,0.0,0.0,0,3300,2310,2790.0,0.8454545454545455
+Chùy Phá Kích,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7016.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,70.0,0.3,0.0,0.0,0.0,0,3300,2310,2790.0,0.8454545454545455
+Chùy Phá Kích,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7016.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,70.0,0.3,0.0,0.0,0.0,0,3300,2310,2790.0,0.8454545454545455
+Búa Rìu Diệt Thần,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7017.png,0.0,450.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0,3300,2310,1920.0,0.5818181818181818
+Búa Rìu Diệt Thần,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7017.png,0.0,450.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0,3300,2310,1920.0,0.5818181818181818
+Búa Rìu Diệt Thần,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7017.png,0.0,450.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0,3300,2310,1920.0,0.5818181818181818
+Tam Luyện Kiếm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7018.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,50.0,0.45,0.0,0.0,0.0,0,3333,2333,2765.0,0.8295829582958296
+Tam Luyện Kiếm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7018.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,50.0,0.45,0.0,0.0,0.0,0,3333,2333,2765.0,0.8295829582958296
+Tam Luyện Kiếm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7018.png,0.0,400.0,0.0,0.0,0.0,0.0,0.0,50.0,0.45,0.0,0.0,0.0,0,3333,2333,2765.0,0.8295829582958296
+Thánh Tích Hoàng Kim,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7019.png,0.0,400.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,2160.0,0.9391304347826087
+Thánh Tích Hoàng Kim,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7019.png,0.0,400.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,2160.0,0.9391304347826087
+Thánh Tích Hoàng Kim,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7019.png,0.0,400.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,2160.0,0.9391304347826087
+Nguyện Hồn Shurelya,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7020.png,0.0,300.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1130.0,0.49130434782608695
+Nguyện Hồn Shurelya,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7020.png,0.0,300.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1130.0,0.49130434782608695
+Nguyện Hồn Shurelya,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7020.png,0.0,300.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1130.0,0.49130434782608695
+Bùa Tinh Thạch,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7021.png,0.0,300.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1130.0,0.49130434782608695
+Bùa Tinh Thạch,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7021.png,0.0,300.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1130.0,0.49130434782608695
+Bùa Tinh Thạch,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7021.png,0.0,300.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1130.0,0.49130434782608695
+Trát Lệnh Thần Vương,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7022.png,0.0,300.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1180.0,0.5130434782608696
+Trát Lệnh Thần Vương,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7022.png,0.0,300.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1180.0,0.5130434782608696
+Trát Lệnh Thần Vương,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7022.png,0.0,300.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1180.0,0.5130434782608696
+Giáp Vai Thiên Cực,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7023.png,0.0,400.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,2160.0,0.9391304347826087
+Giáp Vai Thiên Cực,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7023.png,0.0,400.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,2160.0,0.9391304347826087
+Giáp Vai Thiên Cực,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7023.png,0.0,400.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,2160.0,0.9391304347826087
+Vương Miện Hắc Diệt,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7024.png,0.0,350.0,0.0,90.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2800,1960,2580.0,0.9214285714285714
+Vương Miện Hắc Diệt,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7024.png,0.0,350.0,0.0,90.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2800,1960,2580.0,0.9214285714285714
+Vương Miện Hắc Diệt,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7024.png,0.0,350.0,0.0,90.0,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2800,1960,2580.0,0.9214285714285714
+Trái Tim Thế Giới,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7025.png,0.0,1050.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1680.0,0.525
+Trái Tim Thế Giới,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7025.png,0.0,1050.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1680.0,0.525
+Trái Tim Thế Giới,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7025.png,0.0,1050.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,1680.0,0.525
+"Jak'Sho, Ký Sinh Thể Kinh Khiếp",Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7026.png,0.0,550.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,2400.0,0.75
+"Jak'Sho, Ký Sinh Thể Kinh Khiếp",Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7026.png,0.0,550.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,2400.0,0.75
+"Jak'Sho, Ký Sinh Thể Kinh Khiếp",Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7026.png,0.0,550.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,3200,2240,2400.0,0.75
+Ngọn Đuốc Sáng Thế,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7027.png,0.0,500.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,2700,1890,2320.0,0.8592592592592593
+Ngọn Đuốc Sáng Thế,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7027.png,0.0,500.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,2700,1890,2320.0,0.8592592592592593
+Ngọn Đuốc Sáng Thế,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7027.png,0.0,500.0,0.0,0.0,0.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0,2700,1890,2320.0,0.8592592592592593
+Trượng Hằng Cửu,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7028.png,0.0,550.0,0.0,80.0,550.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2800,1960,2450.0,0.875
+Trượng Hằng Cửu,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7028.png,0.0,550.0,0.0,80.0,550.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2800,1960,2450.0,0.875
+Trượng Hằng Cửu,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7028.png,0.0,550.0,0.0,80.0,550.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2800,1960,2450.0,0.875
+Youmuu Trỗi Dậy,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7029.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0,3100,2170,1500.0,0.4838709677419355
+Youmuu Trỗi Dậy,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7029.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0,3100,2170,1500.0,0.4838709677419355
+Youmuu Trỗi Dậy,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7029.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0,3100,2170,1500.0,0.4838709677419355
+Cuồng Đao Bất Hạnh,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7030.png,0.0,0.0,0.0,50.0,0.0,0.0,0.0,40.0,0.35,0.0,0.0,0.0,0,3200,2240,2175.0,0.6796875
+Cuồng Đao Bất Hạnh,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7030.png,0.0,0.0,0.0,50.0,0.0,0.0,0.0,40.0,0.35,0.0,0.0,0.0,0,3200,2240,2175.0,0.6796875
+Cuồng Đao Bất Hạnh,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7030.png,0.0,0.0,0.0,50.0,0.0,0.0,0.0,40.0,0.35,0.0,0.0,0.0,0,3200,2240,2175.0,0.6796875
+Đoạn Tuyệt Kiếm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7031.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0,3400,2380,2800.0,0.8235294117647058
+Đoạn Tuyệt Kiếm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7031.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0,3400,2380,2800.0,0.8235294117647058
+Đoạn Tuyệt Kiếm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7031.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0,3400,2380,2800.0,0.8235294117647058
+Đao Chớp,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7032.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0,0,3400,2380,2500.0,0.7352941176470589
+Đao Chớp,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7032.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0,0,3400,2380,2500.0,0.7352941176470589
+Đao Chớp,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7032.png,0.0,0.0,0.2,0.0,0.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0,0,3400,2380,2500.0,0.7352941176470589
+Tiếng Thét Của Thành Phố Rú Rít,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7033.png,0.0,300.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1080.0,0.46956521739130436
+Tiếng Thét Của Thành Phố Rú Rít,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7033.png,0.0,300.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1080.0,0.46956521739130436
+Tiếng Thét Của Thành Phố Rú Rít,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7033.png,0.0,300.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2300,1610,1080.0,0.46956521739130436
+Gangplank Placeholder,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7050.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Gangplank Placeholder,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7050.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Gangplank Placeholder,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/7050.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0
+Găng Xích Thù Hận,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/8001.png,0.0,650.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,800,2500,1750,1040.0,0.416
+Găng Xích Thù Hận,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/8001.png,0.0,650.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,800,2500,1750,1040.0,0.416
+Găng Xích Thù Hận,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/8001.png,0.0,650.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,800,2500,1750,1040.0,0.416
+Mặt Nạ Vực Thẳm,Summoner's Rift,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/8020.png,0.0,300.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,700,2400,1680,1560.0,0.65
+Mặt Nạ Vực Thẳm,Vực Gió Hú,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/8020.png,0.0,300.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,700,2400,1680,1560.0,0.65
+Mặt Nạ Vực Thẳm,Đột Kích Nhà Chính,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/8020.png,0.0,300.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,700,2400,1680,1560.0,0.65
