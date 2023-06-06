@@ -1,4 +1,5 @@
 # Phân tích dữ liệu vật phẩm trò chơi Liên Minh Huyền Thoại
+https://public.tableau.com/app/profile/nguyen.linh8268/viz/ItemAnalysis_16860756965510/Summary?publish=yes
 ## Mô tả
 Project này thu thập dữ liệu về vật phẩm trong trò chơi Liên Minh Huyền Thoại từ API của Riot Games. Sau đó dữ liệu được tiền xử lý và tính toán giá trị của mỗi vật phẩm dựa trên các chỉ số như máu, giáp, năng lượng, ... Cuối cùng, kết quả được lưu dưới dạng các file .csv để dễ dàng trực quan hóa.
 ## Kết quả
