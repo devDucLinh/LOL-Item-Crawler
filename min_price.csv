@@ -1,13 +1,13 @@
-﻿Tên vật phẩm,Hình ảnh,Chỉ số,Giá mua,Giá trị cơ sở
-Giày Cơ Động,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3117.png,115.0,1000,8.695652173913043
-Giáp Bạch Ngọc,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3857.png,250.0,400,1.6
-Áo Choàng Tím,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1018.png,0.15,600,4000.0
-Mảnh Chân Băng,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3853.png,40.0,400,10.0
-Lam Ngọc,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1027.png,250.0,350,1.4
-Giáp Lụa,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1029.png,15.0,300,20.0
-Áo Vải,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1033.png,25.0,450,18.0
-Lưỡi Hái Sương Đen,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3864.png,20.0,400,20.0
-Dao Găm,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1042.png,0.12,300,2500.0
-Huyết Trượng,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1053.png,0.07,900,12857.142857142855
-Tù Và Vệ Quân,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2051.png,4.0,950,237.5
-Song Kiếm,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3086.png,0.05,1100,22000.0
+﻿Chỉ số,Tên vật phẩm,Hình ảnh,Chỉ số,Giá mua,Giá trị cơ sở
+Tốc độ di chuyển,Giày Cơ Động,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3117.png,115.0,1000,8.695652173913043
+Máu,Giáp Bạch Ngọc,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3857.png,250.0,400,1.6
+Tỉ lệ chí mạng,Áo Choàng Tím,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1018.png,0.15,600,4000.0
+Sát thương phép,Mảnh Chân Băng,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3853.png,40.0,400,10.0
+Năng lượng,Lam Ngọc,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1027.png,250.0,350,1.4
+Giáp,Giáp Lụa,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1029.png,15.0,300,20.0
+Kháng phép,Áo Vải,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1033.png,25.0,450,18.0
+Sát thương vật lý,Lưỡi Hái Sương Đen,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3864.png,20.0,400,20.0
+Tốc độ đánh,Dao Găm,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1042.png,0.12,300,2500.0
+Hút máu,Huyết Trượng,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/1053.png,0.07,900,12857.142857142855
+Hồi máu,Tù Và Vệ Quân,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/2051.png,4.0,950,237.5
+Tỉ lệ tốc độ di chuyển,Song Kiếm,https://ddragon.leagueoflegends.com/cdn/13.11.1/img/item/3086.png,0.05,1100,22000.0
